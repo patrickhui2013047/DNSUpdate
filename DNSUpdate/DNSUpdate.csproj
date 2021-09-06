@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ConsoleLogger\ConsoleLogger\ConsoleLogger.csproj" />
+    <ProjectReference Include="..\ConsoleLogger\ConsoleLogger.csproj" />
   </ItemGroup>
 
   <ItemGroup>
